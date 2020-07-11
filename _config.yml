@@ -11,7 +11,7 @@ title                    : "Kevin Ta"
 title_separator          : "-"
 name                     : &name "Kevin Ta"
 description              : &description "personal description"
-url                      : https://kevinminhta.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://kevinminhta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kevinminhta/kevinminhta.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kevinminh Ta"
+  name             : "Kevinminh 'Kevin' Ta"
   avatar           : "profile.jpg"
   bio              : "PhD candidate at Yale University"
   location         : "New Haven, CT, USA"
